@@ -76,15 +76,6 @@ CGPA: **8.10 / 10**
 
 ---
 
-### 📊 Github Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yashkhatri&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkhatri&theme=default" />
-</p>
-
----
-
 ### 📫 Contact
 
 **Mail:** iamyashkhatri.00@gmail.com  
