@@ -1,87 +1,107 @@
-<h1 align="center">Hi, I'm Yash Shyamkumar Khatri</h1>
-<h3 align="center">Business Analyst | AI/ML Engineer | Data Science Professional</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm <strong>Yash Shyamkumar Khatri</strong></h1>
+<h3 align="center">AI/ML Engineer | Business Analyst | Data Science Professional</h3>
 
 <p align="center">
-Experienced in Machine Learning, Deep Learning, LLM Development, and scalable end-to-end AI solutions.  
-Proficient in Python, MLOps, and Cloud technologies with hands-on experience building production-level systems.  
-Focused on delivering innovation, automation, and performance-driven deployments.
+Building intelligent systems, scalable ML pipelines, and human-centric AI solutions.  
+Turning data → decisions | Models → products | Ideas → execution.
+</p>
+
+<p align="center">
+  <a href="mailto:iamyashkhatri.00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
+  <a href="https://linktr.ee/Yasssh"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Nagpur,%20India-green?style=for-the-badge"></a>
 </p>
 
 ---
 
-### 🚀 About Me  
-- Business Analyst at **Edverciity**  
-- 1.5+ years of experience in **ML, DL, LLM Systems & AI Engineering**  
-- Skilled in model optimization, scalable deployment, and MLOps automation  
-- Passionate about research-driven development, GenAI, and real-world AI adoption  
+## 🚀 About Me
+
+I am an AI/ML Engineer & Business Analyst skilled in designing high-quality ML solutions with production-grade deployment.  
+With experience in **LLMs, Deep Learning, MLOps & GenAI Systems**, I focus on optimizing models for **real-time inference**, reducing latency, and accelerating development pipelines.  
+My interest lies in **large-scale model deployment, vector databases, generative AI & development of end-to-end intelligence systems.**
 
 ---
 
-### 🧠 Technical Skills
+## 🛠 Tech Arsenal
 
-**Programming:** Python, SQL, R, Git  
-**ML/DL & GenAI:** Scikit-learn, TensorFlow, PyTorch, YOLO, LLMs, RAG, Prompt Engineering  
-**Data Engineering:** ETL Pipelines, Hadoop, PySpark  
-**Deployment & MLOps:** FastAPI, REST APIs, Docker, Kubernetes, CI/CD, Model Serving  
-**Databases/Analytics:** MongoDB, MySQL, PostgreSQL, Power BI, Tableau  
-**Methodologies:** Agile/Scrum, Jira  
+<details>
+<summary><strong>Languages & Tools</strong></summary>
 
----
+| Category | Skills |
+|--------|--------|
+| **Programming** | Python, SQL, R, Git |
+| **ML / DL / GenAI** | Scikit-learn, TensorFlow, PyTorch, YOLO, LLMs, RAG |
+| **MLOps + Deployment** | Docker, Kubernetes, CI/CD, FastAPI, REST APIs, Model Serving |
+| **Big Data & ETL** | Hadoop, PySpark, ETL Pipelines |
+| **Databases / BI Tools** | PostgreSQL, MySQL, MongoDB, Power BI, Tableau |
+| **Workflows & Practices** | Agile/Scrum, Jira |
 
-### 🎓 Education
-
-**B.Tech – Artificial Intelligence & Data Science**  
-*K.D.K College of Engineering, RTMNU*  
-CGPA: **8.10 / 10**  
-**Merit Award Recipient 2023–24** (Top Academic Performance)
+</details>
 
 ---
 
-### 💼 Experience
+## 📄 Work Experience
 
-**Business Analyst | Edverciity (LiveTechSkills), Nagpur**  
-*May 2025 – Present*  
-- Reduced operational delays by **15%** via data-driven process optimization.  
-- Involved in ML feature planning, model monitoring, and LLM integration.  
-- Deployment improvements led to **25% latency reduction** (210 ms → 158 ms).  
+**Business Analyst – Edverciity (LiveTechSkills), Nagpur**  
+• Reduced workflow delays by 15% through inference bottleneck analysis  
+• Led feature definition for LLM integration & model monitoring  
+• Optimized deployment → **25% latency reduction (210ms → 158ms)**
 
-**Data Analyst Intern | LiveTechSkills, Nagpur**  
-*Jan 2024 – Dec 2024*  
-- Built ML models & analytical pipelines using Python, SQL & Power BI.  
-- Developed dashboards helping stakeholders achieve data-driven decisions.  
-- Worked cross-functionally demonstrating adaptability and analytical excellence.  
+**Data Analyst Intern – LiveTechSkills, 2024**  
+• Trained ML models for business analytics using Python + SQL  
+• Designed BI dashboards for actionable insight reporting  
+• Improved decision-making through structured data storytelling
 
 ---
 
-### 🔬 Notable Projects
+## 🔥 Featured Projects
 
-| Project | Tech | Highlight |
-|--------|-------|-----------|
-| **AI Code Reviewer** | Python, Transformers, Hugging Face, Streamlit | Automated code evaluation using LLM trained on 50k samples — efficiency improved **37%** |
-| **Carbon Sequestration Estimation** | Regression, Pandas, Remote Sensing, GeoSpatial Data | Achieved **R² = 0.83** using weather + tree morphology dataset |
-| **AI-Powered Attendance System** | YOLO, Python, OpenCV | **95% accuracy** across varied classroom & lighting conditions |
-
----
-
-### 🏅 Certifications & Leadership
-
-- OCI Certified Generative AI Professional – Oracle  
-- Machine Learning Foundation – AWS Academy  
-- What is Generative AI? – LinkedIn Learning  
-- Google Analytics Certification – SkillShop  
-- **President | Rotaract Club (40+ Members), 2025–Present**  
-- Former President | FOR-AIM & YIN Club, 2023–2025  
-- **First Runner-Up – HackEngers Hackathon, Chennai (2024)**  
-- Merit Award for Academic Excellence – KDKCE  
+| Project | Tech | Result |
+|--------|------|--------|
+| **AI Code Reviewer** | HuggingFace, Transformers, Streamlit | Review automation improved by **37%** |
+| **Carbon Sequestration Model** | Regression + GeoSpatial Data | Achieved **R² = 0.83**, JRPS Published |
+| **Smart Attendance System (YOLO)** | CV + Deep Learning | 95% Accuracy in real-world classrooms |
 
 ---
 
-### 📫 Contact
+## 🏅 Certifications & Leadership
 
-**Mail:** iamyashkhatri.00@gmail.com  
-**Phone:** 8999078897  
-**Portfolio:** linktr.ee/Yasssh  
-
-<p align="center">Let's build and innovate with AI.</p>
+- Oracle: **OCI Certified Generative AI Professional**
+- AWS Academy: ML Foundations
+- Google Analytics (Skillshop)
+- President – Rotaract Club (40+ Members)
+- Former President – FOR-AIM & YIN Club
+- First Runner-Up – HackEngers Hackathon 2024
+- Merit Award for Academic Excellence – KDKCE
 
 ---
+
+## 📚 Research Publication
+
+**Carbon Sequestration in Tree Species – JRPS Journal (2025)**  
+Focused on **ecological modelling, CO₂ estimation, & data-driven climate analytics**  
+*Accepted in International Journal for Research Publication & Seminar* :contentReference[oaicite:1]{index=1}
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yashkhatri&show_icons=true&theme=transparent&rank_icon=github" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkhatri&theme=transparent" height="160"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkhatri&layout=compact&theme=transparent" height="160"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+| Platform | Link |
+|--------|------|
+| Mail | iamyashkhatri.00@gmail.com |
+| Phone | +91 8999078897 |
+| Portfolio | linktr.ee/Yasssh |
+
+<p align="center"><strong>Let's build something powerful with AI.</strong></p>
