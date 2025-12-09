@@ -89,14 +89,6 @@ Focused on ecological modelling, environmental data analytics, and CO₂ predict
 
 ---
 
-### GitHub Profile Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkhatri&show_icons=true&hide_border=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkhatri&hide_border=true&theme=default"/>
-</p>
-
----
 
 ### Contact  
 
